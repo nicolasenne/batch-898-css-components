@@ -1,0 +1,29 @@
+.btn-red {
+  background-color: rgba(210, 47, 74);
+  padding: 10px 40px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 4px;
+  transition: .3s;
+}
+
+.btn-red:hover {
+  background-color: rgb(30, 223, 181);
+  transition: .3s;
+}
+
+.btn-green {
+  border: 1px solid rgb(30, 223, 181);
+  padding: 10px 40px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: rgb(30, 223, 181);
+  background-color: #fff;
+  transition: .3s;
+}
+
+.btn-green:hover {
+  background-color: rgb(30, 223, 181);
+  transition: .3s;
+  color: #fff;
+}

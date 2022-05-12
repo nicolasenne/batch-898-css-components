@@ -1,0 +1,28 @@
+.flex-yellow {
+  background-color: yellow;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.box-1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(252, 90, 252);
+  flex-grow: 3;
+}
+
+.box-2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.box-3 {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  flex-grow: 3;
+}
